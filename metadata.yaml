@@ -1,10 +1,13 @@
 _repo: Oliver-Twist_56586
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Gaulke, Johannes
     gutenberg_agent_id: '48932'
     url: http://www.gutenberg.org/2009/agents/48932
+covers:
+- cover_type: archival
+  image_path: 56586-h/images/cover.jpg
 creator:
   author:
     agent_name: Dickens, Charles
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56586#Oliver-Twist
 gutenberg_issued: '2018-02-17'
 gutenberg_type: Text
 identifiers:
