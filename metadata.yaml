@@ -1,0 +1,31 @@
+_repo: Oliver-Twist_56586
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gaulke, Johannes
+    gutenberg_agent_id: '48932'
+    url: http://www.gutenberg.org/2009/agents/48932
+creator:
+  author:
+    agent_name: Dickens, Charles
+    aliases:
+    - Boz
+    - Dickens, Charles John Huffam
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+description: ''
+gutenberg_issued: '2018-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56586'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Oliver Twist
+url: http://www.gutenberg.org/ebooks/56586
